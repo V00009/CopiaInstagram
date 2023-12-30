@@ -1,2 +1,0 @@
-# CopiaInstagram
-Copia do Instagram
